@@ -8,7 +8,8 @@ This project uses a trained Logistic Regression model to automatically categoriz
 ```
 
 # Project documentation
-🚀 Features
+
+Features
 Load and use a pre-trained LogisticRegression model for classifying transactions.
 
 Preprocessing pipeline likely includes:
@@ -24,24 +25,20 @@ Example transaction data usage
 Inference and prediction
 
 
-🛠 Requirements
+Requirements
 Install the dependencies using pip:
 pip install pandas numpy scikit-learn joblib
 If you're using the notebook:
 pip install jupyter
-📈 Usage
+
+
+Usage
 1. Launch the Notebook
 jupyter notebook trans_categorization.ipynb
-2. Use the Model
-The notebook shows:
 
-How to load the trained_logisticRegressionModel.pkl file
+3. Use the Model
 
-How to preprocess new transaction data
-
-How to make predictions
-
-3. Example Code Snippet
+4. Example Code Snippet
 
 import joblib
 import pandas as pd
