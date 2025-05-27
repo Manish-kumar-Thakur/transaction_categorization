@@ -8,6 +8,7 @@ This project uses a trained Logistic Regression model to automatically categoriz
 ```
 
 # Project documentation
+Load the data from this link: https://drive.google.com/file/d/1qzazL0CYllIVb39aWrK77AXJjdmsYU-M/view?usp=sharing
 
 Features
 Load and use a pre-trained LogisticRegression model for classifying transactions.
