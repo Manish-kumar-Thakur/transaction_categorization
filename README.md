@@ -1,14 +1,11 @@
 Transaction Categorization using Logistic Regression
 This project uses a trained Logistic Regression model to automatically categorize financial transactions. It's designed to help users analyze and label transaction data efficiently.
-
+```
 📁 Project Structure
-plaintext
-Copy
-Edit
 ├── trained_logisticRegressionModel.pkl   # Pre-trained Logistic Regression model
 ├── trans_categorization.ipynb            # Jupyter Notebook with preprocessing and inference logic
 ├── README.md 
-
+```
 
 # Project documentation
 🚀 Features
